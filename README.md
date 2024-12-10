@@ -7,14 +7,14 @@ Hey! Hi, i am a Full-Stack developer, CEO of Expringsoft, where I am currently d
 ### Languages that I use on projects.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-	<div style="color: white; background: #73a; border-radius: 5px; padding: 1rem; cursor: default;"><span>C#</span></div>
-	<div style="color: white; background: #237; border-radius: 5px; padding: 1rem; cursor: default;"><span>PHP</span></div>
-	<div style="color: white; background: #28e; border-radius: 5px; padding: 1rem; cursor: default;"><span>Typescript</span></div>
-	<div style="color: white; background: #a42; border-radius: 5px; padding: 1rem; cursor: default;"><span>Kotlin</span></div>
-	<div style="color: white; background: #a95; border-radius: 5px; padding: 1rem; cursor: default;"><span>Javascript</span></div>
-	<div style="color: white; background: #23b; border-radius: 5px; padding: 1rem; cursor: default;"><span>LUA</span></div>
-	<div style="color: white; background: linear-gradient(135deg, #26e 50%, #aa2 50%); border-radius: 5px; padding: 1rem; cursor: default;"><span>Python</span></div>
-	<div style="color: green; background: #000; border-radius: 5px; padding: 1rem; cursor: default; outline: 1px solid #272727;"><span>&gt;SHELL_</span></div>
+	<img src="img/lang_cs.png">
+	<img src="img/lang_php.png">
+	<img src="img/lang_ts.png">
+	<img src="img/lang_js.png">
+	<img src="img/lang_py.png">
+	<img src="img/lang_kt.png">
+	<img src="img/lang_lua.png">
+	<img src="img/lang_shell.png">
 </div>
 <p style="font-size: 11px; opacity: 0.7; margin: 10px 0 0;">*Shell may not be a language but if you keep reading you will understand why is there</p>
 <p style="font-size: 11px; opacity: 0.7; margin: 0;">*I have small knowledge of C, C++, Go and Dart, but that was long ago, they don't count here but I could learn them fast</p>
@@ -23,35 +23,35 @@ Hey! Hi, i am a Full-Stack developer, CEO of Expringsoft, where I am currently d
 ### Frameworks, environments and tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-	<div style="color: white; background: #f9322c; border-radius: 5px; padding: 1rem; cursor: default;"><span>Laravel</span></div>
-	<div style="color: white; background: #136485; border-radius: 5px; padding: 1rem; cursor: default;"><span>React</span></div>
-	<div style="color: white; background: #f22; border-radius: 5px; padding: 1rem; cursor: default;"><span>Angular</span></div>
-	<div style="color: white; background: #3e874f; border-radius: 5px; padding: 1rem; cursor: default;"><span>Node</span></div>
-	<div style="color: white; background: #3683b3; border-radius: 5px; padding: 1rem; cursor: default;"><span>WinUI3</span></div>
-	<div style="color: white; background: #754d99; border-radius: 5px; padding: 1rem; cursor: default;"><span>.NET WPF</span></div>
-	<div style="color: white; background: #8b4d99; border-radius: 5px; padding: 1rem; cursor: default;"><span>.NET Forms</span></div>
-	<div style="color: white; background: #5e55a3; border-radius: 5px; padding: 1rem; cursor: default;"><span>.NET MAUI</span></div>
-	<div style="color: white; background: #125461; border-radius: 5px; padding: 1rem; cursor: default;"><span>GUSI Framework</span></div>
-	<div style="color: white; background: #292929; border-radius: 5px; padding: 1rem; cursor: default;"><span>Figma</span></div>
-	<div style="color: white; background: #c2462b; border-radius: 5px; padding: 1rem; cursor: default;"><span>GIT</span></div>
-	<div style="color: green; background: #000; border-radius: 5px; padding: 1rem; cursor: default; outline: 1px solid #272727;"><span>&gt;SSH</span></div>
-	<div style="color: white; background: #2f798a; border-radius: 5px; padding: 1rem; cursor: default;"><span>VS Code</span></div>
-	<div style="color: white; background: #6e4e80; border-radius: 5px; padding: 1rem; cursor: default;"><span>Visual Studio 2022</span></div>
-	<div style="color: white; background: linear-gradient(-45deg, #249 50%, #294); border-radius: 5px; padding: 1rem; cursor: default;"><span>Android Studio</span></div>
-	<div style="color: white; background: #112333; border-radius: 5px; padding: 1rem; cursor: default; outline: 3px solid cyan"><span>Photoshop</span></div>
-	<div style="color: white; background: #321b33; border-radius: 5px; padding: 1rem; cursor: default; outline: 3px solid #9f47a6"><span>Premiere Pro</span></div>
-	<div style="color: white; background: #b05505; border-radius: 5px; padding: 1rem; cursor: default;"><span>Postman</span></div>
-	<div style="color: white; background: gray; border-radius: 5px; padding: 1rem; cursor: default;"><span>ChatGPT</span></div>
-	<div style="color: white; background: black; outline: 1px solid #777; border-radius: 5px; padding: 1rem; cursor: default;"><span>Stable Diffusion (Gen, Lora)</span></div>
+	<img src="img/frame_lara.png">
+	<img src="img/lib_react.png">
+	<img src="img/frame_ang.png">
+	<img src="img/env_node.png">
+	<img src="img/frame_winui.png">
+	<img src="img/frame_maui.png">
+	<img src="img/frame_wpf.png">
+	<img src="img/frame_forms.png">
+	<img src="img/frame_gf3.png">
+	<img src="img/tool_fig.png">
+	<img src="img/tool_git.png">
+	<img src="img/tool_ssh.png">
+	<img src="img/ide_code.png">
+	<img src="img/ide_vs.png">
+	<img src="img/ide_as.png">
+	<img src="img/tool_ps.png">
+	<img src="img/tool_prem.png">
+	<img src="img/tool_post.png">
+	<img src="img/tool_gpt.png">
+	<img src="img/tool_sd.png">
 </div>
 
 ### Databases
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-	<div style="color: white; background: #136485; border-radius: 5px; padding: 1rem; cursor: default;"><span>MySQL</span></div>
-	<div style="color: white; background: #45a; border-radius: 5px; padding: 1rem; cursor: default;"><span>SQL Server</span></div>
-	<div style="color: black; background: whitesmoke; border-radius: 5px; padding: 1rem; cursor: default;"><span>SQLite</span></div>
-	<div style="color: white; background: green; border-radius: 5px; padding: 1rem; cursor: default;"><span>MongoDB</span></div>
+	<img src="img/db_serv.png">
+	<img src="img/db_my.png">
+	<img src="img/db_mongo.png">
+	<img src="img/db_lite.png">
 </div>
 
 <hr style="margin: 4rem 0">
