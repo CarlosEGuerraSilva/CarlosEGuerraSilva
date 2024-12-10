@@ -1,4 +1,4 @@
-## 🔹 Carlos Guerra 🔹
+# 🙋‍♂️ Carlos Guerra
 
 Hey! Hi, i am a Full-Stack developer, CEO of Expringsoft, where I am currently developing a flagship project to officially introduce ourselves. I love programming, currently my focus is on web development, but I also enjoy building desktop applications in C# for Windows or multiplatform with .NET MAUI. I also love play videogames, you may can find me as MajesticScarab8 (or X instead of 8) on multiple games and platforms, such Xbox, Epic, Minecraft.
 
@@ -16,9 +16,10 @@ Hey! Hi, i am a Full-Stack developer, CEO of Expringsoft, where I am currently d
 	<img src="img/lang_lua.png">
 	<img src="img/lang_shell.png">
 </div>
-<p style="font-size: 11px; opacity: 0.7; margin: 10px 0 0;">*Shell may not be a language but if you keep reading you will understand why is there</p>
-<p style="font-size: 11px; opacity: 0.7; margin: 0;">*I have small knowledge of C, C++, Go and Dart, but that was long ago, they don't count here but I could learn them fast</p>
-<p style="font-size: 11px; opacity: 0.7;">*I hate Java, can work with it only if the pay is good enough.</p>
+
+###### *Shell may not be a language but if you keep reading you will understand why is there.
+###### *I have small knowledge of C, C++, Go and Dart, but that was long ago, they don't count here but I could learn them fast.
+###### *I hate Java, can work with it only if the pay is good enough.
 
 ### Frameworks, environments and tools
 
